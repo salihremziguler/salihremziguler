@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Salih Remzi Güler</h1>
-<h3 align="center">I am a computer engineer.</h3>
 
 - 🔭 I’m currently working on **programming**
 
